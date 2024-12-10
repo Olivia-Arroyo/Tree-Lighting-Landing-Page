@@ -66,6 +66,7 @@ body {
 }
 
 .event-details {
+    font-size: 1.3rem;
     text-align: center;
     padding: 10px 100px 50px 100px;
 }
