@@ -54,22 +54,24 @@ body {
 }
 
 .countdown h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
 }
 
 #countdown {
+    color: #A98264;
     font-size: 3rem;
     font-weight: bold;
+    margin-bottom: 0px;
 }
 
 .event-details {
     text-align: center;
-    padding: 50px 20px;
+    padding: 10px 10px 50px;
 }
 
 .event-details h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .gallery {
@@ -115,7 +117,7 @@ form {
 }
 
 form label {
-    font-size: 1rem;
+    font-size: 1.4rem;
     margin-bottom: 8px;
 }
 
